@@ -15,3 +15,19 @@ Deep Learning Architectures
 Backpropagation and Optimization
 Regularization Techniques
 Case Studies and Applications
+
+Getting Started
+To get started with the programs, you will need Python installed on your machine. You can install the necessary dependencies using the following command:
+![image](https://github.com/user-attachments/assets/0734cfcb-ff27-4753-99df-7654627203ea)
+
+Run the Python scripts using:
+![image](https://github.com/user-attachments/assets/e52cffac-eb93-4129-aba3-2e6042f5d997)
+
+Contributing
+Contributions are welcome! If you have any improvements or additional content to add, please feel free to submit a pull request. Ensure that your contributions align with the overall goal of providing fundamental deep learning resources.
+
+License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+
+
